@@ -1,0 +1,13 @@
+<!-- textfield.component.html -->
+<div class="my-1">
+  <label for="email-address" class="sr-only">{{ label }}</label>
+  <input
+    [type]="type"
+    required
+    class="appearance-none rounded-none relative block w-full px-3 py-2 border border-slate-300 placeholder-gray-500 text-gray-900  focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+    [placeholder]="placeholder"
+    [autocomplete]="autocomplete"
+    (keyup)="onInputChanged($event)"
+
+  />
+</div>
