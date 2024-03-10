@@ -1,6 +1,8 @@
 # EzagaStuWebApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+This is the ezaga student profile test project. It consists of more 10 pages an features. The project is built with Angular 12 and Bootstrap 5. The project is a single page application with routing and navigation. The project is also responsive and can be viewed on mobile devices.
+<img src="src/assets/p1.png">
+<img src="src/assets/p2.png">
 
 ## Development server
 
